@@ -16,7 +16,7 @@ h1 {
 }
 
 .head { 
-	background-color: green;
+	background-color: black;
 	width: 200px; 
 	margin: 0 auto; 
 	height: 150px; 
@@ -62,7 +62,7 @@ h1 {
 
 .torso { 
     z-index: +1;
-	background-color: red;
+	background-color: grey;
 	width: 200px; 
 	height: 200px;
 	border-radius: 100px 100px 60px 60px; 
@@ -82,7 +82,7 @@ h1 {
 } 
 
 .left_leg, .right_leg { 
-	background-color: red;
+	background-color: grey;
 	width: 40px; 
 	height: 120px;
 	border-radius: 0 0 100px 100px; 
